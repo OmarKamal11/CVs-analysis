@@ -11,4 +11,4 @@ The TF-IDF representation is then used to compute the cosine similarity between 
 
 Finally, the script presents the top matching jobs based on the computed similarity scores. It sorts the job descriptions by match confidence and presents relevant information such as job title, company, location, and match confidence. The resulting list of job descriptions is sorted in descending order of match confidence, allowing users to identify potential job opportunities that closely align with their skills.
 
-In summary, this script combines NLP techniques, resume parsing, and similarity matching to help users find job opportunities that match their skills.
+In summary, this project combines NLP techniques, resume parsing, and similarity matching to help users find job opportunities that match their skills.
